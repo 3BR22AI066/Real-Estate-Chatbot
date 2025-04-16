@@ -2,7 +2,9 @@
 
 A smart chatbot that helps users find properties based on their requirements, with natural language processing and machine learning capabilities.
 
-![Chatbot Demo](demo.gif) *(Replace with your actual demo GIF)*
+![Screenshot 2025-04-16 185813](https://github.com/user-attachments/assets/e161bee6-e5c0-4597-9714-f126828adede)
+
+![Screenshot 2025-04-16 185924](https://github.com/user-attachments/assets/90e24078-1797-4afa-972d-c0f760efa8a5)
 
 ## Features ✨
 
