@@ -1,0 +1,10 @@
+# Data and models
+/backend/data/
+/backend/models/
+
+# Virtual environment
+/venv/
+
+# System files
+.DS_Store
+Thumbs.db
