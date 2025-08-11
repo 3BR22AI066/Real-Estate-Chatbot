@@ -41,9 +41,3 @@ A smart chatbot that helps users find properties based on their requirements, wi
   - City (label encoded)
   - State (label encoded)
 #### Dataset-Source:-https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
-#### Key ML Components
-1. **Feature Engineering**:
-   ```python
-   features = ['price', 'bed', 'bath', 'house_size', 'city_encoded', 'state_encoded']
-   scaler = StandardScaler()
-   scaled_features = scaler.fit_transform(df[features])
